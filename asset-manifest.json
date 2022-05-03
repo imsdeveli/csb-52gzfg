@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://imsdeveli.github.io/csb-52gzfg/static/js/main.e3bfcb5d.chunk.js",
+    "main.js.map": "https://imsdeveli.github.io/csb-52gzfg/static/js/main.e3bfcb5d.chunk.js.map",
+    "runtime-main.js": "https://imsdeveli.github.io/csb-52gzfg/static/js/runtime-main.ccbcc2a9.js",
+    "runtime-main.js.map": "https://imsdeveli.github.io/csb-52gzfg/static/js/runtime-main.ccbcc2a9.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://imsdeveli.github.io/csb-52gzfg/static/css/2.cbedb215.chunk.css",
+    "static/js/2.c2d3517b.chunk.js": "https://imsdeveli.github.io/csb-52gzfg/static/js/2.c2d3517b.chunk.js",
+    "static/js/2.c2d3517b.chunk.js.map": "https://imsdeveli.github.io/csb-52gzfg/static/js/2.c2d3517b.chunk.js.map",
+    "index.html": "https://imsdeveli.github.io/csb-52gzfg/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://imsdeveli.github.io/csb-52gzfg/static/css/2.cbedb215.chunk.css.map",
+    "static/js/2.c2d3517b.chunk.js.LICENSE.txt": "https://imsdeveli.github.io/csb-52gzfg/static/js/2.c2d3517b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccbcc2a9.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.c2d3517b.chunk.js",
+    "static/js/main.e3bfcb5d.chunk.js"
+  ]
+}
